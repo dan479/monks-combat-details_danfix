@@ -69,9 +69,9 @@
     "css/monks-combat-details.css"
   ],
   "url": "https://github.com/ironmonk108/monks-combat-details",
-  "download": "https://github.com/ironmonk108/monks-combat-details/archive/14.03.zip",
-  "manifest": "https://github.com/ironmonk108/monks-combat-details/releases/latest/download/module.json",
-  "bugs": "https://github.com/ironmonk108/monks-combat-details/issues",
+  "download": "https://github.com/dan479/monks-combat-details_danfix/archive/14.03.zip",
+  "manifest": "https://github.com/dan479/monks-combat-details_danfix/releases/latest/download/module.json",
+  "bugs": "https://github.com/dan479/monks-combat-details_danfix/issues",
   "id": "monks-combat-details",
   "compatibility": {
     "minimum": "14",
